@@ -10,6 +10,7 @@ namespace Ass6
     {
         static void Main(string[] args)
         {
+            //comment by atom
             const string end = "X";
             const string DELIM = ",";
             string name;
